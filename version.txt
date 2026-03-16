@@ -1,1 +1,14 @@
-128.2|https://drive.google.com/file/d/1zq1-Lmag3NxWzNCwvHemCO69fd8sCGzu/view?usp=sharing
+128.5
+https://github.com/dangmanhhunglnt/hmixer-update/releases/download/v128.5/H_MIXER_PRO_Setup.exe
+============== THÔNG BÁO CẬP NHẬT ==============
+Đã có phiên bản H-MIXER PRO v128.5 mới nhất!
+
+Nội dung cập nhật:
+- Tích hợp hệ thống Tự động cập nhật (Auto-Update) thông minh.
+- Sửa lỗi đếm chính xác số câu trong phần Tự luận.
+- Làm đẹp khung giao diện Thông tin & Donate tác giả.
+- Tối ưu hóa tốc độ tải file Word bằng RAM Engine.
+
+Lưu ý:
+Thầy cô bấm nút "OK" bên dưới, phần mềm sẽ tự động tải 
+và cài đặt bản mới. Vui lòng không tắt máy trong quá trình này!
