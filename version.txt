@@ -1,4 +1,4 @@
-2.0
+200.0
 https://github.com/dangmanhhunglnt/hmixer-update/releases/download/v2.0/H_MIXER_PRO.exe
 - Cập nhật phần mềm lên bản 2.0.
 -Cải tiến thuật toán.
